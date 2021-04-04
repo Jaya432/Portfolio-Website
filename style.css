@@ -1,0 +1,39 @@
+.header{
+    display: flex;
+}
+.w80{
+    width: 80%;
+    margin-left: 2rem;
+}
+.w20{
+    width: 20%;
+    display: flex;
+    justify-content:flex-end;
+    margin-right: 2rem;
+}
+.profile-details{
+    display: flex;
+}
+.image img{
+    width: 300px;
+    height: 300px;
+}
+.image{
+    width: 30%;
+    display: flex;
+    justify-content: center;
+}
+.details{
+    width: 70%;
+    padding: 3rem;
+}
+main{
+    margin: 2rem;
+}
+.project-section, footer{
+    text-align: center;
+
+}
+footer{
+    margin-top: 4rem;
+}
